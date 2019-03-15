@@ -1,0 +1,59 @@
+BCSymbolMap Version: 2.0
+_$Ss27_toStringReadOnlyStreamableySSxs010TextOutputE0RzlFSS_Tg5
+_$Ss26_toStringReadOnlyPrintableySSxs06CustomB11ConvertibleRzlFSi_Tg5
+_$SSS19stringInterpolationS2Sd_tcfCTf4nd_n
+_$Ss23_ContiguousArrayStorageCyypGML
+_$Ss23_ContiguousArrayStorageCySSGML
+_$S13DemoFrameworkMXM
+_$S13DemoFramework0A3ApiCML
+_$S13DemoFramework0A3ApiCMf
+_symbolic ____ 13DemoFramework0A3ApiC
+_$S13DemoFramework0A3ApiCMF
+__swift_FORCE_LOAD_$_swiftFoundation_$_DemoFramework
+__swift_FORCE_LOAD_$_swiftDarwin_$_DemoFramework
+__swift_FORCE_LOAD_$_swiftObjectiveC_$_DemoFramework
+__swift_FORCE_LOAD_$_swiftCoreFoundation_$_DemoFramework
+__swift_FORCE_LOAD_$_swiftDispatch_$_DemoFramework
+__swift_FORCE_LOAD_$_swiftCoreGraphics_$_DemoFramework
+___swift_reflection_version
+_objc_classes
+Apple LLVM version 10.0.0 (clang-1000.11.45.1)
+-emit-bc /Users/gabriel/ABB/DemoFramework/DemoFramework/DemoApi.swift -emit-module-path /Users/gabriel/Library/Developer/Xcode/DerivedData/DemoFramework-eewlbryhwdlpaqgdswvrblcnteji/Build/Intermediates.noindex/ArchiveIntermediates/DemoFramework/IntermediateBuildFilesPath/DemoFramework.build/Release-iphoneos/DemoFramework.build/Objects-normal/arm64/DemoFramework.swiftmodule -emit-module-doc-path /Users/gabriel/Library/Developer/Xcode/DerivedData/DemoFramework-eewlbryhwdlpaqgdswvrblcnteji/Build/Intermediates.noindex/ArchiveIntermediates/DemoFramework/IntermediateBuildFilesPath/DemoFramework.build/Release-iphoneos/DemoFramework.build/Objects-normal/arm64/DemoFramework.swiftdoc -serialize-diagnostics-path /Users/gabriel/Library/Developer/Xcode/DerivedData/DemoFramework-eewlbryhwdlpaqgdswvrblcnteji/Build/Intermediates.noindex/ArchiveIntermediates/DemoFramework/IntermediateBuildFilesPath/DemoFramework.build/Release-iphoneos/DemoFramework.build/Objects-normal/arm64/DemoFramework-master.dia -emit-objc-header-path /Users/gabriel/Library/Developer/Xcode/DerivedData/DemoFramework-eewlbryhwdlpaqgdswvrblcnteji/Build/Intermediates.noindex/ArchiveIntermediates/DemoFramework/IntermediateBuildFilesPath/DemoFramework.build/Release-iphoneos/DemoFramework.build/Objects-normal/arm64/DemoFramework-Swift.h -emit-dependencies-path /Users/gabriel/Library/Developer/Xcode/DerivedData/DemoFramework-eewlbryhwdlpaqgdswvrblcnteji/Build/Intermediates.noindex/ArchiveIntermediates/DemoFramework/IntermediateBuildFilesPath/DemoFramework.build/Release-iphoneos/DemoFramework.build/Objects-normal/arm64/DemoFramework-master.d -target arm64-apple-ios11.0 -Xllvm -aarch64-use-tbi -enable-objc-interop -sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk -I /Users/gabriel/Library/Developer/Xcode/DerivedData/DemoFramework-eewlbryhwdlpaqgdswvrblcnteji/Build/Intermediates.noindex/ArchiveIntermediates/DemoFramework/BuildProductsPath/Release-iphoneos -F /Users/gabriel/Library/Developer/Xcode/DerivedData/DemoFramework-eewlbryhwdlpaqgdswvrblcnteji/Build/Intermediates.noindex/ArchiveIntermediates/DemoFramework/BuildProductsPath/Release-iphoneos -g -module-cache-path /Users/gabriel/Library/Developer/Xcode/DerivedData/ModuleCache.noindex -swift-version 4.2 -O -serialize-debugging-options -Xcc -I/Users/gabriel/Library/Developer/Xcode/DerivedData/DemoFramework-eewlbryhwdlpaqgdswvrblcnteji/Build/Intermediates.noindex/ArchiveIntermediates/DemoFramework/IntermediateBuildFilesPath/DemoFramework.build/Release-iphoneos/DemoFramework.build/swift-overrides.hmap -Xcc -iquote -Xcc /Users/gabriel/Library/Developer/Xcode/DerivedData/DemoFramework-eewlbryhwdlpaqgdswvrblcnteji/Build/Intermediates.noindex/ArchiveIntermediates/DemoFramework/IntermediateBuildFilesPath/DemoFramework.build/Release-iphoneos/DemoFramework.build/DemoFramework-generated-files.hmap -Xcc -I/Users/gabriel/Library/Developer/Xcode/DerivedData/DemoFramework-eewlbryhwdlpaqgdswvrblcnteji/Build/Intermediates.noindex/ArchiveIntermediates/DemoFramework/IntermediateBuildFilesPath/DemoFramework.build/Release-iphoneos/DemoFramework.build/DemoFramework-own-target-headers.hmap -Xcc -I/Users/gabriel/Library/Developer/Xcode/DerivedData/DemoFramework-eewlbryhwdlpaqgdswvrblcnteji/Build/Intermediates.noindex/ArchiveIntermediates/DemoFramework/IntermediateBuildFilesPath/DemoFramework.build/Release-iphoneos/DemoFramework.build/DemoFramework-all-non-framework-target-headers.hmap -Xcc -ivfsoverlay -Xcc /Users/gabriel/Library/Developer/Xcode/DerivedData/DemoFramework-eewlbryhwdlpaqgdswvrblcnteji/Build/Intermediates.noindex/ArchiveIntermediates/DemoFramework/IntermediateBuildFilesPath/DemoFramework.build/Release-iphoneos/DemoFramework.build/all-product-headers.yaml -Xcc -iquote -Xcc /Users/gabriel/Library/Developer/Xcode/DerivedData/DemoFramework-eewlbryhwdlpaqgdswvrblcnteji/Build/Intermediates.noindex/ArchiveIntermediates/DemoFramework/IntermediateBuildFilesPath/DemoFramework.build/Release-iphoneos/DemoFramework.build/DemoFramework-project-headers.hmap -Xcc -I/Users/gabriel/Library/Developer/Xcode/DerivedData/DemoFramework-eewlbryhwdlpaqgdswvrblcnteji/Build/Intermediates.noindex/ArchiveIntermediates/DemoFramework/BuildProductsPath/Release-iphoneos/include -Xcc -I/Users/gabriel/Library/Developer/Xcode/DerivedData/DemoFramework-eewlbryhwdlpaqgdswvrblcnteji/Build/Intermediates.noindex/ArchiveIntermediates/DemoFramework/IntermediateBuildFilesPath/DemoFramework.build/Release-iphoneos/DemoFramework.build/DerivedSources/arm64 -Xcc -I/Users/gabriel/Library/Developer/Xcode/DerivedData/DemoFramework-eewlbryhwdlpaqgdswvrblcnteji/Build/Intermediates.noindex/ArchiveIntermediates/DemoFramework/IntermediateBuildFilesPath/DemoFramework.build/Release-iphoneos/DemoFramework.build/DerivedSources -Xcc -working-directory/Users/gabriel/ABB/DemoFramework -parse-as-library -module-name DemoFramework -num-threads 8 -o /Users/gabriel/Library/Developer/Xcode/DerivedData/DemoFramework-eewlbryhwdlpaqgdswvrblcnteji/Build/Intermediates.noindex/ArchiveIntermediates/DemoFramework/IntermediateBuildFilesPath/DemoFramework.build/Release-iphoneos/DemoFramework.build/Objects-normal/arm64/DemoApi.bc -resource-dir /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift
+<swift-imported-modules>
+/Users/gabriel/ABB/DemoFramework
+Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)
+/Users/gabriel/ABB/DemoFramework/DemoFramework/DemoApi.swift
+$S13DemoFramework0A3ApiCMa
+<compiler-generated>
+init
+$SSa11_getElement_20wasNativeTypeChecked22matchingSubscriptCheckxSi_Sbs16_DependenceTokenVtFSS_Tgq5
+$SSa9_getCountSiyFSS_Tgq5
+$Ss26_toStringReadOnlyPrintableySSxs06CustomB11ConvertibleRzlFSi_Tg5
+$SSis23CustomStringConvertiblessAAP11descriptionSSvgTW
+$Ss14_int64ToString_5radix9uppercaseSSs5Int64V_AESbtF
+$Ss27_toStringReadOnlyStreamableySSxs010TextOutputE0RzlFSS_Tg5
+$SSSs20TextOutputStreamablessAAP5write2toyqd__z_ts0aB6StreamRd__lFTWSS_Tg5
+$SSS5write2toyxz_ts16TextOutputStreamRzlFSS_Tg5
+$SSSs16TextOutputStreamssAAP5writeyySSFTW
+deinit
+DemoApi.swift
+/Users/gabriel/ABB/DemoFramework/DemoFramework
+sumAndPrint
+next
+$SSiSQsSQ2eeoiySbx_xtFZTW
+$SSayxGs10CollectionsSl9formIndex5aftery0C0Qzz_tFTWSi_Tg5
+$SSa9formIndex5afterySiz_tFSi_Tg5
+$SSayxGs10CollectionsSly7ElementQz5IndexQzcigTWSi_Tg5
+$SSayxSicigSi_Tg5
+$SSa11_getElement_20wasNativeTypeChecked22matchingSubscriptCheckxSi_Sbs16_DependenceTokenVtFSi_Tg5
+printToConsole
+_allocateUninitializedArray
+$SSa13_adoptStorage_5countSayxG_SpyxGts016_ContiguousArrayB0CyxGn_SitFZyp_Tg5
+$Ss23_ContiguousArrayStorageCyypGMa
+$SSa13_adoptStorage_5countSayxG_SpyxGts016_ContiguousArrayB0CyxGn_SitFZSS_Tg5
+$Ss23_ContiguousArrayStorageCySSGMa
+$SSayxGs10CollectionsSl8endIndex0C0QzvgTWSi_Tg5
+$SSa8endIndexSivgSi_Tg5
+$SSa9_getCountSiyFSi_Tg5
+Apple LLVM version 10.0.0 (clang-1000.11.45.5)
+/Users/gabriel/Library/Developer/Xcode/DerivedData/DemoFramework-eewlbryhwdlpaqgdswvrblcnteji/Build/Intermediates.noindex/ArchiveIntermediates/DemoFramework/IntermediateBuildFilesPath/DemoFramework.build/Release-iphoneos/DemoFramework.build/DerivedSources/DemoFramework_vers.c
