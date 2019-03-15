@@ -1,0 +1,28 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/gabriel/Library/Developer/Xcode/DerivedData/DemoFramework-eewlbryhwdlpaqgdswvrblcnteji/Build/Products/Release-iphoneos/DemoFramework.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "DemoFramework-Swift.h",
+          'external-contents': "/Users/gabriel/Library/Developer/Xcode/DerivedData/DemoFramework-eewlbryhwdlpaqgdswvrblcnteji/Build/Products/Release-iphoneos/DemoFramework.framework/Headers/DemoFramework-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/gabriel/Library/Developer/Xcode/DerivedData/DemoFramework-eewlbryhwdlpaqgdswvrblcnteji/Build/Products/Release-iphoneos/DemoFramework.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/gabriel/ABB/DemoFramework/build/DemoFramework.build/Release-iphoneos/DemoFramework.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

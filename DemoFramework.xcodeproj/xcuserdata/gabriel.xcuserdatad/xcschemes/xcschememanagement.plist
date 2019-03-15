@@ -9,6 +9,29 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>DemoFrameworkUniversal.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>C06CA78F223B87E100B356BF</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C06CA798223B87E100B356BF</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C06CA7B6223B93E200B356BF</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 	</dict>
 </dict>
 </plist>

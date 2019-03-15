@@ -1,0 +1,4 @@
+/Users/gabriel/ABB/DemoFramework/build/DemoFramework.build/Release-iphoneos/DemoFramework.build/Objects-normal/arm64/DemoApi.o : /Users/gabriel/ABB/DemoFramework/DemoFramework/DemoApi.swift
+/Users/gabriel/ABB/DemoFramework/build/DemoFramework.build/Release-iphoneos/DemoFramework.build/Objects-normal/arm64/DemoFramework.swiftmodule : /Users/gabriel/ABB/DemoFramework/DemoFramework/DemoApi.swift
+/Users/gabriel/ABB/DemoFramework/build/DemoFramework.build/Release-iphoneos/DemoFramework.build/Objects-normal/arm64/DemoFramework.swiftdoc : /Users/gabriel/ABB/DemoFramework/DemoFramework/DemoApi.swift
+/Users/gabriel/ABB/DemoFramework/build/DemoFramework.build/Release-iphoneos/DemoFramework.build/Objects-normal/arm64/DemoFramework-Swift.h : /Users/gabriel/ABB/DemoFramework/DemoFramework/DemoApi.swift

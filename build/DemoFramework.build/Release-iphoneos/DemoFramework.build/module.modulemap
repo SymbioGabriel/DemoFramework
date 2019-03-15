@@ -1,0 +1,4 @@
+framework module DemoFramework {
+  header "DemoFramework-Swift.h"
+  requires objc
+}
